@@ -1,9 +1,9 @@
 package com.otheima.git;
 
 public class User {
-    private String namsssssse;//用户名
-    private Integer agssssssssse;//年龄
-    private String passwsssssssord;
+    private String name;//用户名
+    private Integer age;//年龄
+    private String password;
 
     public String getName() {
         return name;
